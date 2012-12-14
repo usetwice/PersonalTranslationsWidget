@@ -1,8 +1,8 @@
 {
-  "name":"ladela/personal-translations-widget-bundle",
+  "name":"usetwice/personal-translations-widget-bundle",
   "description":"Adds translations widget based on Personal translations",
   "keywords":["twig", "form", "translations"],
-  "homepage":"https://github.com/rodgermd/PersonalTranslationsWidget.git",
+  "homepage":"https://github.com/usetwice/PersonalTranslationsWidget.git",
   "type":"symfony-bundle",
   "license":"MIT",
   "authors":[
